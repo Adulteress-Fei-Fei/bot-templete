@@ -1,0 +1,12 @@
+{
+  "name": "SPY's Fanart Auto Publisher",
+  "version": "1.0.0",
+  "description": "Morino Rinze is My Waifu ! No need to explain !",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
